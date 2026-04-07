@@ -1,0 +1,8 @@
+{
+  "name": "shane-rtl-pack",
+  "version": "0.1.0",
+  "description": "RTL design and review pack: code generation, FSM, pipeline, datapath, arithmetic, register, clock/reset, memory, code review, microarch doc, debug, ECO, perf modeling, Verilog simulation",
+  "author": {
+    "name": "shane-wu"
+  }
+}

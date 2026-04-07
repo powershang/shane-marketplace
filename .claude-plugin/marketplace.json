@@ -1,0 +1,18 @@
+{
+  "name": "shane-marketplace",
+  "owner": {
+    "name": "shane-wu"
+  },
+  "plugins": [
+    {
+      "name": "shane-rtl-pack",
+      "source": "./plugins/shane-rtl-pack",
+      "description": "RTL design and review skills/agents (FSM, pipeline, datapath, CSR, verification, debug, ECO, etc.)"
+    },
+    {
+      "name": "shane-ddd-pack",
+      "source": "./plugins/shane-ddd-pack",
+      "description": "DDD workflow agents: PM (requirement), DD (design), DV (verification) + project init"
+    }
+  ]
+}

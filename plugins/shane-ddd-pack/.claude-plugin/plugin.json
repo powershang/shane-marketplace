@@ -1,0 +1,8 @@
+{
+  "name": "shane-ddd-pack",
+  "version": "0.1.0",
+  "description": "DDD (Design-Driven Development) workflow: PM agent (requirement), DD agent (design), DV agent (verification), and project initializer",
+  "author": {
+    "name": "shane-wu"
+  }
+}
