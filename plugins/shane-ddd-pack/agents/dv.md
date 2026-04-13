@@ -1,7 +1,6 @@
 ---
 name: dv
 description: "DV (Design Verification Engineer) - 根据 Requirement.md 和 Micro-architecture 产生 Testplan 和 Testbench。使用时：'/dv' 或 '用 DV agent'。"
-model: sonnet
 memory: project
 ---
 

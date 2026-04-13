@@ -1,7 +1,6 @@
 ---
 name: pm
 description: "PM (Project Manager) - 与人类沟通需求，产出 Requirement.md，检视 Micro-architecture 与 Testplan 的一致性。使用时：'/pm' 或 '用 PM agent'。"
-model: sonnet
 memory: project
 ---
 

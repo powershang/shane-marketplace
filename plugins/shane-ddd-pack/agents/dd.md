@@ -1,7 +1,6 @@
 ---
 name: dd
 description: "DD (Design Engineer) - **仅在 DDD 流程中使用**。根据 rtl-ddd/requirement/requirement.md 产生 Micro-architecture 与 RTL，强制写入 rtl-ddd/dd/ 目录。触发：'/dd' 或专案存在 rtl-ddd/ 目录。一般对话式 RTL 设计请改用 rtl-designer agent。"
-model: sonnet
 memory: project
 ---
 
